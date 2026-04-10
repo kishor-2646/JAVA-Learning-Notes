@@ -64,4 +64,4 @@ java FileName
 | 13 | Access Modifiers | ✅ | ✅ |
 
 ---
-*Learning Java — notes by HQ*
+*Learning Java — notes by Kishor*
