@@ -11,7 +11,7 @@ resources/
 ├── page-03-hello-world.pdf
 ├── page-04-05-data-types-variables.pdf
 ├── page-06-operators.pdf
-├── page-07-keywords.pdf
+├── page-07-keywords-identifiers.pdf
 ├── page-08-wrapper-classes.pdf
 ├── page-09-decision-making.pdf
 ├── page-10-loops.pdf
